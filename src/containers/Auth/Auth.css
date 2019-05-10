@@ -1,0 +1,28 @@
+body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  padding: 1em;
+}
+
+#logo {
+  width: 11em;
+  margin-top: 2em;
+}
+
+#bg-login {
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+       box-shadow: 0 10px 6px -6px #777;
+       border-width: thin;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
